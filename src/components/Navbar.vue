@@ -13,12 +13,12 @@
       <li><a href="#hero" @click.prevent="scrollAndCloseMenu('hero')" class="nav-item">Home</a></li>
       <li><a href="#about" @click.prevent="scrollAndCloseMenu('about')" class="nav-item">About</a></li>
       <li><a href="#tokenomics" @click.prevent="scrollAndCloseMenu('tokenomics')" class="nav-item">Tokenomics</a></li>
-      <li><a href="#roadmap" @click.prevent="scrollAndCloseMenu('roadmap')" class="nav-item">Roadmap</a></li>
-      <li><a href="#community" @click.prevent="scrollAndCloseMenu('community')" class="nav-item">Community</a></li>
+      <li><a href="#roadmap" @click.prevent="scrollAndCloseMenu('roadmap')" class="nav-item">Events</a></li>
+      <li><a href="#community" @click.prevent="scrollAndCloseMenu('community')" class="nav-item">Tribe</a></li>
     </ul>
 
     <div class="buy-button-nav">
-      <a href="">Buy</a>
+      <a href="https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6MTQwNzE4OTMzNywidG9rZW5fYWRkcmVzcyI6IkVRRHA2Ti1qbmRZM0lDektNRndJTTNMRkNhTm9ZbXZ4Y1A1OHB0ZnltSGlxdG4zTSJ9">Buy</a>
     </div>
   </nav>
 </template>

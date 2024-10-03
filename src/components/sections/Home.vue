@@ -1,9 +1,9 @@
 <template>
   <section id="hero" class="section">
     <div class="hero-content">
-      <h1>Invest in the Future of Memes! <a style="color: #FFDD00;">$DOGED</a></h1>
+      <h1>The #1 Diddy Telegram memecoin! Bet on the Diddy Party <a style="color: #FFDD00;"> $OIL</a></h1>
       <p @click="copyToClipboard" class="copy-text">
-      CA123456789123456789123456789
+      EQDp6N-jndY3ICzKMFwIM3LFCaNoYmvxcP58ptfymHiqtn3M
     </p>
     <p v-if="copied" class="success-message">
       CA has been copied
@@ -16,7 +16,7 @@
 import { ref } from 'vue';
 
 // Reaktivní proměnné
-const textToCopy = 'CA123456789123456789123456789';
+const textToCopy = 'EQDp6N-jndY3ICzKMFwIM3LFCaNoYmvxcP58ptfymHiqtn3M';
 const copied = ref(false);
 
 // Funkce pro kopírování textu do schránky

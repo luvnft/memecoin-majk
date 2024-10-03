@@ -1,8 +1,8 @@
 <template>
     <section id="community">
-      <h2 class="section-title">Join Our Community</h2>
+      <h2 class="section-title">Join The Party</h2>
       <p class="section-subtitle">
-        Connect with us on our social platforms to stay updated and be a part of the MEME Token revolution!
+        Connect with us on our social platforms to stay updated and be a part of the $OIL memecoin money revolution!
       </p>
       <div class="community-grid">
         <div class="community-item" v-for="(platform, index) in platforms" :key="index">
@@ -27,14 +27,14 @@
   const platforms = ref([
     {
       name: 'Telegram',
-      description: 'Join the conversation on Telegram.',
-      link: 'https://t.me/your_telegram_channel',
+      description: 'Live Diddy Party on Telegram.',
+      link: 'https://t.me/diddypartyoil',
       icon: faTelegram
     },
     {
       name: 'Twitter',
       description: 'Follow us for the latest updates.',
-      link: 'https://twitter.com/your_twitter_handle',
+      link: 'https://twitter.com/diddypartyoil',
       icon: faTwitter
     }
   ]);

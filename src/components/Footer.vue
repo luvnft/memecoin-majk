@@ -1,7 +1,7 @@
 <template>
     <footer class="footer">
         <div class="footer-bottom">
-            <p>&copy; 2024 $DOGED</p>
+            <p>&copy; 2024 $OIL Money</p>
         </div>
     </footer>
 </template>

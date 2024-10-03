@@ -1,6 +1,6 @@
 <template>
     <section id="roadmap">
-      <h2 class="section-title">Roadmap</h2>
+      <h2 class="section-title">Diddy Party Events</h2>
       <div class="timeline">
         <div v-for="(milestone, index) in milestones" :key="index" class="timeline-item">
           <div class="timeline-content">
@@ -18,20 +18,20 @@
   // Define roadmap milestones
   const milestones = ref([
     {
-      quarter: 'Q1 2024',
-      description: 'Launch Token and Initial DEX Offering (IDO).',
-    },
-    {
-      quarter: 'Q2 2024',
-      description: 'Start Liquidity Mining Program and Community Staking.',
-    },
-    {
-      quarter: 'Q3 2024',
-      description: 'Partnership Announcements and CEX Listing.',
+      quarter: 'Q4 2024',
+      description: '☑️ Launch Token and Initial DEX Offering (IDO). $OIL available for sale now, click the buy button.',
     },
     {
       quarter: 'Q4 2024',
-      description: 'Launch NFT Marketplace and Expand Ecosystem.',
+      description: 'Telegram effect "Diddy Oil Run" versus game night for $OIL holders only. Winners paid in $OIL money.',
+    },
+    {
+      quarter: 'Q4 2025',
+      description: 'Diddy Party meme challenge #diddypartyoil for $OIL holders, best original memes become Telegram NFT merch.',
+    },
+    {
+      quarter: 'Q1 2025',
+      description: 'Partnership Announcements and CEX Listing.',
     },
   ]);
   </script>

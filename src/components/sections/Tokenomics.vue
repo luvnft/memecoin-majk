@@ -4,7 +4,7 @@
       <div class="grid-container">
         <div class="grid-item">
           <h3>Max Supply</h3>
-          <p>1,000,000,000 MEME</p>
+          <p>1,000,000,000 $OIL</p>
         </div>
         <div class="grid-item">
           <h3>Distribution</h3>

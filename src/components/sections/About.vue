@@ -2,12 +2,12 @@
   <section id="about">
     <div class="container">
       <div class="about-text">
-        <h2 class="section-title">About Us</h2>
+        <h2 class="section-title">Diddy Party $OIL</h2>
         <p>
-          Welcome to <span class="highlight">$DOGED</span>, a new generation memecoin built on the Solana blockchain. Our mission is to empower the community through decentralized finance while having a little fun along the way. With strong foundations in community engagement and innovation, we aim to make memecoins not just a trend, but a driving force for financial inclusivity.
+          Welcome to the Telegram Diddy Party, where memes meet versus competition! We've launched <span class="highlight">$OIL</span>, a memecoin designed for TikTok's "Diddy Oil Run" game and meme creators worldwide. Whether you're betting on the game or submitting the funniest Diddy Party memes, $OIL rewards your creativity and risk-taking. Our mission is to bring humor, fun, and a new way to engage with TikTok and meme culture, all powered by crypto. 
         </p>
         <p>
-          We envision a future where memes are more than just entertainment—they're assets that hold real value. Join us on our journey to revolutionize the meme economy and explore new possibilities in the world of DeFi!
+          Join the party and become part of a tribe that blends the viral power of memes with innovative digital currency! We're tokenizing the best Diddy Party $OIL memes as Telegram digital assets $OIL holders can sell with no middleman. Join us on our journey to revolutionize the meme economy and explore new possibilities in the world of DeFi!
         </p>
       </div>
       <div class="about-image">
